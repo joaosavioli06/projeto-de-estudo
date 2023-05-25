@@ -1,19 +1,20 @@
-# projeto-de-estudo
-Neste repositório, está localizado o meu projeto de estudo para me ajudar a progredir na programação. Decidi começar este projeto, pois depois de um bom tempo estudando, percebi que deveria colocar mais foco no meu aprendizado e estudar as tecnologias certas e no tempo certo. Muitas coisas podem mudar neste projeto, mas o meu objetivo inicial é:
+# study-project
 
-Estudar:
-* Git e GitHub (20 horas)
-* Python  ||  Ruby  (20 horas)
-* Django  ||  Rails (20 horas)
-* Orientação a objeto 
+In this repository is located my study project to help me progress in programming. I decided to start this project, because after a good amount of time studying, I realized that I should put more focus on my learning and study the right technologies at the right time. Many things can change in this project, but my initial goal is:
 
-Objetivos:
-* Estudar 4 tecnologias
-* 20 horas de cada assunto
-* Construir um projeto real
+Study:
+* Git and GitHub (20 hours)
+* Python  ||  Ruby  (20 hours)
+* Django  ||  Rails (20 hours)
+* Object Orientation 
 
-Incentivos:
-* Medir o tempo programando
-* Medir a criação de código
+Goals:
+* Study 4 technologies
+* 20 hours of each subject
+* Build a real project
 
-Assim como foi dito no começo da descrição do projeto, pode ser que algumas coisas mudem com o passar do tempo, porém, quero fazer de tudo para estudar Python ou Ruby. O meu foco é começar os estudos na parte de back-end. Procurarei estudar utilizando cursos e materiais gratuitos, não pretendo realizar compras de cursos ou coisas do tipo. Estou começando este projeto no dia 17/05/2023, espero ter resultados significativos até o fim deste ano. O objetivo é ter mais conhecimento e começar a estudar do jeito correto.
+Incentives:
+* Measure programming time
+* Measuring code creation
+
+As stated in the beginning of the project description, some things may change over time, but I want to do everything I can to study Python or Ruby. My focus is to start my studies on the back-end. I will try to study using free courses and materials, I don't intend to buy courses or anything like that. I am starting this project on 05/17/2023, I hope to have significant results by the end of this year. The goal is to have more knowledge and start studying the right way.
