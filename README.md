@@ -17,7 +17,7 @@ Study:
 
 Goals:
 * Study and learn more about programming in general
-* Start learing Python 
+* Start learning Python 
 * Build a real project and algorithms
 
 Incentives:
