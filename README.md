@@ -5,11 +5,11 @@ In this repository is located my study project to help me progress in programmin
 Study:
 * Git 
 * GitHub
-* API
 * Conteiners
-* Frameworks
 * Programming libraries 
-* Python    
+* Python 
+* API  
+* Frameworks
 * Database 
 * Object Orientation 
 * Django  
