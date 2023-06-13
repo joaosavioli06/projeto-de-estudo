@@ -13,7 +13,9 @@ Study:
 * Database 
 * Object Orientation 
 * Django  
+* Possibly JS and PHP
 * Continue studying... 
+
 
 Goals:
 * Study and learn more about programming in general
