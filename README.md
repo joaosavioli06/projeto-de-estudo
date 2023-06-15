@@ -13,7 +13,7 @@ Study:
 * Database 
 * Object Orientation 
 * Django  
-* Possibly JS and PHP
+* Possibly JS
 * Continue studying... 
 
 
