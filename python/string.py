@@ -90,7 +90,7 @@ print(linha)
 #usando as """, você consegue escrever/quebrar várias linhas uma embaixo da outra. É como se fosse um /n do Python  
 
 teste_aspas = "olha que legal, se eu quiser imprimir aspas dentro de aspas, é só fazer isso. Eu falei que queria \"entre aspas\" no texto"
-print(teste_aspas)
+print(tes)
 
 
 
