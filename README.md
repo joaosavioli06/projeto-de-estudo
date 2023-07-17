@@ -1,4 +1,4 @@
-# study-project
+# Study Project
 
 In this repository is located my study project to help me progress in programming. I decided to start this project, because after a good amount of time studying, I realized that I should put more focus on my learning and study the right technologies at the right time. Many things can change in this project, but my initial goal is:
 
