@@ -12,7 +12,7 @@
             num2 = 10;
             num3 = 15;
 
-            int total = num1 + (num2 / num3);
+            int total = (num1 + num2) / num3;
             Console.WriteLine(total);
         }
     }
